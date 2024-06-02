@@ -4,7 +4,7 @@
 In this project, we performed basic data analysis on a dataset of Airbnb listings. EDA is a fundamental step in data science that involves exploring and understanding the data before diving into more complex analysis or modeling.
 
 ## Data Source
-The dataset used for this analysis is the "Seattle Airbnb Open Data" from Kaggle.
+The dataset used for this analysis is the "Seattle Airbnb Open Data" from Kaggle
 
 ## Steps Implemented
 1. **Data Collection**: The dataset was sourced from Kaggle.
