@@ -1,3 +1,2 @@
 # Coding-Samurai
 
-## This repository mainly keeps my work that is tasks that i should complete...
